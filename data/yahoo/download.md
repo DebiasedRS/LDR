@@ -1,4 +1,4 @@
-Please download the yahoo dataset from https://webscope.sandbox.yahoo.com/catalog.php?datatype=r
+Please download the yahoo datasets from https://webscope.sandbox.yahoo.com/catalog.php?datatype=r and put them into this directory.
 
 
 The Yahoo Webscope Program is a reference library of interesting and scientifically useful datasets for non-commercial use by academics and other scientists.
